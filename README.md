@@ -19,16 +19,16 @@ Toko buku masa kini menghadapi tantangan dalam mengelola inventaris dan memberik
 
 ![](https://github-readme-stats.vercel.app/api?username=zzrftixx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zzrftixx&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzrftixx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
 
 <p align="center">
 
 <p align="center"> 
-<h1 align="center">✍️ Random Dev Quote</h1>
+<h1 align="center">✍️ Dev Quote And Static </h1>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzrftixx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </p>
